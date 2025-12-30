@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janhq/.github/main/assets/logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janhq/.github/main/assets/logo-light.svg">
-  <img alt="Jan - Open Intelligence" src="https://raw.githubusercontent.com/janhq/.github/main/assets/logo-light.svg" width="300">
+  <img alt="Jan" src="https://raw.githubusercontent.com/janhq/.github/main/assets/logo-light.svg" width="60" align="left">
 </picture>
 
 # Building Open Intelligence
