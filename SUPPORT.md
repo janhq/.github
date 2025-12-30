@@ -10,7 +10,7 @@ Here are some ways to get help with Jan:
 
 ### Community
 
-- Join our [Discord server](https://discord.gg/jan) for real-time discussions
+- Join our [Discord server](https://discord.com/invite/FTk2MvZwJH) for real-time discussions
 - Browse or ask questions in [GitHub Discussions](https://github.com/janhq/jan/discussions)
 
 ### Issues
