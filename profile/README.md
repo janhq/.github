@@ -10,7 +10,7 @@ We believe AI should be **open**, **private**, and **accessible to everyone**. J
 
 Our mission is to empower individuals, teams, and organizations to harness the power of AI without sacrificing privacy or control.
 
-[![Discord](https://img.shields.io/discord/1107178041848909847?label=Discord&logo=discord&logoColor=white)](https://discord.gg/jan)
+[![Discord](https://img.shields.io/discord/1107178041848909847?label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/FTk2MvZwJH)
 [![X (Twitter)](https://img.shields.io/twitter/follow/jandotai?style=social)](https://x.com/jandotai)
 [![Website](https://img.shields.io/badge/Website-jan.ai-blue)](https://jan.ai)
 
@@ -86,7 +86,7 @@ We're building in the open and welcome contributors of all skill levels.
 <p align="center">
   <a href="https://jan.ai">Website</a> •
   <a href="https://jan.ai/docs">Documentation</a> •
-  <a href="https://discord.gg/jan">Discord</a> •
+  <a href="https://discord.com/invite/FTk2MvZwJH">Discord</a> •
   <a href="https://x.com/jandotai">Twitter</a>
 </p>
 
