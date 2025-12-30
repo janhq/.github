@@ -36,9 +36,6 @@ Turn your computer into an AI workstation. Jan is a desktop application that let
 <a href="https://github.com/janhq/jan/releases">
   <img src="https://img.shields.io/github/downloads/janhq/jan/total?style=flat-square" alt="Downloads">
 </a>
-<a href="https://github.com/janhq/jan/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/janhq/jan?style=flat-square" alt="License">
-</a>
 
 ---
 
