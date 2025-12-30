@@ -1,0 +1,7 @@
+# Assets Directory
+
+Add your logo files here:
+- logo-light.svg  (for light mode GitHub theme)
+- logo-dark.svg   (for dark mode GitHub theme)
+
+These are referenced in profile/README.md for the organization header.
