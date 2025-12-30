@@ -1,13 +1,15 @@
-name: "\U0001F680 Feature Request"
-description: "Suggest an idea for this project \U0001F63B!"
-title: 'idea: [DESCRIPTION]'
+name: "Feature Request"
+description: "Suggest an idea or new feature"
+labels: ["type: feature"]
+title: "feat: [DESCRIPTION]"
+
 body:
   - type: textarea
     validations:
       required: true
     attributes:
       label: "Problem Statement"
-      description: "Describe the problem you're facing"
+      description: "Describe the problem you're facing or the use case"
       placeholder: |
         I'm always frustrated when ...
 
@@ -15,5 +17,15 @@ body:
     validations:
       required: true
     attributes:
-      label: "Feature Idea"
-      description: "Describe what you want instead. Examples are welcome!"
+      label: "Proposed Solution"
+      description: "Describe what you'd like to happen. Examples are welcome!"
+
+  - type: textarea
+    attributes:
+      label: "Alternatives Considered"
+      description: "Describe any alternative solutions or features you've considered"
+
+  - type: textarea
+    attributes:
+      label: "Additional Context"
+      description: "Add any other context, mockups, or screenshots about the feature request"

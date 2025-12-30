@@ -1,5 +1,5 @@
-name: "\U0001F41B Bug Report"
-description: "If something isn't working as expected \U0001F914"
+name: "Bug Report"
+description: "Report a bug or unexpected behavior"
 labels: ["type: bug"]
 title: "bug: [DESCRIPTION]"
 
@@ -8,42 +8,42 @@ body:
     validations:
       required: true
     attributes:
-      label: "Describe the issue and expected behaviour"
-      description: "A clear & concise description of the issue encountered"
+      label: "Describe the Bug"
+      description: "A clear and concise description of what the bug is and what you expected to happen"
 
   - type: textarea
     attributes:
       label: "Steps to Reproduce"
       description: |
-        Please list out steps to reproduce the issue
+        Please list steps to reproduce the issue
       placeholder: |
         1. Go to '...'
         2. Click on '...'
+        3. See error
 
   - type: textarea
     attributes:
       label: "Screenshots / Logs"
       description: |
-        Please include cortex-cli.log and cortex.log files in: ~/cortex/logs/
+        If applicable, add screenshots or logs to help explain your problem
 
-  - type: checkboxes
+  - type: dropdown
     attributes:
-      label: "What is your OS?"
+      label: "Operating System"
       options:
-        - label: Windows
-        - label: Mac Silicon
-        - label: Mac Intel
-        - label: Linux / Ubuntu
-
-  - type: checkboxes
-    attributes:
-      label: "What engine are you running?"
-      options:
-        - label: cortex.llamacpp (default)
-        - label: cortex.tensorrt-llm (Nvidia GPUs)
-        - label: cortex.onnx (NPUs, DirectML)
+        - Windows
+        - macOS (Apple Silicon)
+        - macOS (Intel)
+        - Linux / Ubuntu
+        - Other
 
   - type: input
     attributes:
-      label: "Hardware Specs eg OS version, GPU"
-      description:
+      label: "Version"
+      description: "What version are you running?"
+      placeholder: "e.g., v1.0.0"
+
+  - type: input
+    attributes:
+      label: "Additional Context"
+      description: "Any other context about the problem (hardware specs, related issues, etc.)"
