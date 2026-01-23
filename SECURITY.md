@@ -11,7 +11,7 @@
 We take security seriously at Jan. If you discover a security vulnerability, please follow these steps:
 
 1. **Do not** open a public issue
-2. Email us at security@jan.ai with details of the vulnerability
+2. Ping us privately on Discord or fill in [this form](https://forms.gle/LoxNVacHqUT261sa9)
 3. Include steps to reproduce the issue if possible
 4. Allow us reasonable time to respond before any public disclosure
 
